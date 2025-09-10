@@ -1,0 +1,9 @@
+    db_config = {
+        "host": "localhost",
+        "database": "tera_test",
+        "user": "root",
+        "password": "pass",
+        "port": 3306,  # Port default MySQL, sesuaikan jika perlu
+    }
+
+    excel_file_path = "daftar_harga.xls"
