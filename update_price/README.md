@@ -18,11 +18,13 @@ Skrip ini dirancang untuk melakukan tugas-tugas berikut:
 
 Untuk menjaga kerapian, disarankan untuk menyusun file proyek seperti ini:
 
+```
 proyek-update-harga/
 ├── venv/ # Folder virtual environment
 ├── update_prices.py # Skrip utama
 ├── sumber_data.xlsx # File sumber data Excel
-└── CARA_PENGGUNAAN.md # File dokumentasi ini
+└── README.md # File dokumentasi ini
+```
 
 ---
 
